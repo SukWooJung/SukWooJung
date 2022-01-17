@@ -8,11 +8,11 @@
 ## What I Like
 
 ## Github Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukWooJung&show_icons=true&theme=radical)
-
 <div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukWooJung&show_icons=true&theme=radical)
+</div>
 ## BaekJoon Stats 
-
+<div align="center">
 <br>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggp03016">
 <br>
