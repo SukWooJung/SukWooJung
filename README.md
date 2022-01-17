@@ -8,9 +8,7 @@
 ## What I Like
 
 ## Github Stats 
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukWooJung&show_icons=true&theme=radical)
-<br>
 
 ## BaekJoon Stats 
 <br>
