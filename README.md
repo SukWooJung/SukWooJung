@@ -7,7 +7,15 @@
 
 ## What I Like
 
-## Git hub stats 
+## Github Stats 
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukWooJung&show_icons=true&theme=radical)
+<br>
+
+## BaekJoon Stats 
+<br>
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggp03016">
+<br>
 
 <!--
 **SukWooJung/SukWooJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +32,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukWooJung&show_icons=true&theme=radical)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggp03016)](https://solved.ac/ggp03016)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggp03016">
+
