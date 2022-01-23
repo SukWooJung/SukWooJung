@@ -12,7 +12,7 @@
  <br /><br />
  
 ## BaekJoon Stats 
-**Gold** 🏅
+**Gold3** 🏅
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggp03016)](https://solved.ac/ggp03016)
